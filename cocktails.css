@@ -1,0 +1,8 @@
+body{background-color: lightskyblue;height: 100vh;padding:5em 2em;}
+form {max-width: 400px;margin: 0 auto;}
+h2{letter-spacing: 4px;}
+.picCont{margin-top: 5em;display: grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap: 3em;}
+.box{border:8px solid white;height: 250px;}
+a{text-decoration: none;}
+.box span{right: -20px;bottom: -20px;letter-spacing: 2px;font-family: 'Courier New', Courier, monospace;}
+.flex{display: flex;align-items: center;}
